@@ -1,6 +1,6 @@
 # Проекты сделанные в Яндекс.Практикум
 
-## Определение возраста покупателей по фотографии (Computer Vision)Проекты сделанные в Яндекс.Практикум
+## Определение возраста покупателей по фотографии (Computer Vision)
 - Построение моделм, которая по фотографии определит приблизительный возраст человека.
   - https://github.com/antbaranov/ya-projects/blob/main/determination-of-age-by-photo/project_processing__of_customer_photographs_CV.ipynb
 
