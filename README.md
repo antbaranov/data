@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-<a href="https://github.com/antbaranov/ya-projects/blob/main/machine_learning_comment_classification/">Машинное обучение для текстов: Классификация комментариев</a>
+<a href="https://github.com/antbaranov/ya-projects/blob/main/machine_learning_comment_classification/">Машинное обучение для текстов: Классификация комментариев (Natural Language Processing)</a>
     </td>
     <td>
 Обучение модели для классификации комментариев на позитивные и негативные
