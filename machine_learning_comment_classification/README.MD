@@ -7,7 +7,7 @@
 Pandas, Numpy, Matplotlib, SnowballStemmer, Nltk, Sklearn, TfidfVectorizer, GridSearchCV, LogisticRegression, RandomForestClassifier, Classification_report, Torch, Transformers, AutoModel, BertTokenizerFast, BERT
 
 ### Выводы
-В проекте обучали несколько моделей. В процессе обучения былb достигнуты следующие значения метрики качества F1- score: 
+В проекте обучали несколько моделей. В процессе обучения были достигнуты следующие значения метрики качества F1- score: 
 
 - LogisticRegression F1 - score: 0.76
 - RandomForestClassifier F1 - score: 0.48
