@@ -8,7 +8,7 @@
 Построение модели, которая по фотографии определит приблизительный возраст человека.
     </td>
     <td>
-      Pandas
+      Pandas, Numpy, Tensorflow, Keras, Dense, GlobalAveragePooling2D, Sequential, Adam, ImageDataGenerator, ResNet50, Matplotlib
     </td>  
   </tr>
   <tr>
