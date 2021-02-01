@@ -27,7 +27,7 @@
 Обучение модели для классификации комментариев на позитивные и негативные
       </td>
     <td>
-      Pandas
+      Pandas, Numpy, Matplotlib, SnowballStemmer, Nltk, Sklearn, TfidfVectorizer, GridSearchCV, LogisticRegression, RandomForestClassifier, Classification_report, Torch, Transformers, AutoModel, BertTokenizerFast, BERT
     </td>
   </tr>
 </table>
