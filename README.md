@@ -1,6 +1,14 @@
 # Проекты сделанные в Яндекс.Практикум
 <table>
   <tr>
+    <th>Название проекта
+    </th>
+    <th>Описание проекта
+    </th>
+    <th>Инструменты
+    </th>
+  </tr>
+  <tr>
     <td>
 <a href="https://github.com/antbaranov/ya-projects/blob/main/determination-of-age-by-photo/">Определение возраста покупателей по фотографии (Computer Vision)</a>
     </td>
