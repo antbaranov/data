@@ -30,9 +30,13 @@
       Pandas, Numpy, Matplotlib, SnowballStemmer, Nltk, Sklearn, TfidfVectorizer, GridSearchCV, LogisticRegression, RandomForestClassifier, Classification_report, Torch, Transformers, AutoModel, BertTokenizerFast, BERT
     </td>
   </tr>
+  <tr>
   <td>
-  Отток клиентов: Прогнозирование оттока клиентов оператора связи.
+    <a href=https://github.com/antbaranov/ya-projects/tree/main/forecasting_customer_churn_telecom
+  Отток клиентов: Прогнозирование оттока клиентов оператора связи.</a>
       </td>
+     <td>Прогнозирование оттока абонентов моделями машинного обучения. Удеержание клиентов.
+       </td>
     <td>
       Pandas, Numpy, Matplotlib, , Sklearn, , GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
