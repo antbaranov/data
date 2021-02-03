@@ -32,7 +32,7 @@
   </tr>
   <tr>
   <td>
-    <a href=https://github.com/antbaranov/ya-projects/tree/main/forecasting_customer_churn_telecom
+    <a href="https://github.com/antbaranov/ya-projects/tree/main/forecasting_customer_churn_telecom/">
   Отток клиентов: Прогнозирование оттока клиентов оператора связи.</a>
       </td>
      <td>Прогнозирование оттока абонентов моделями машинного обучения. Удеержание клиентов.
