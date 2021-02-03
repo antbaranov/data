@@ -30,4 +30,11 @@
       Pandas, Numpy, Matplotlib, SnowballStemmer, Nltk, Sklearn, TfidfVectorizer, GridSearchCV, LogisticRegression, RandomForestClassifier, Classification_report, Torch, Transformers, AutoModel, BertTokenizerFast, BERT
     </td>
   </tr>
+  <td>
+  Отток клиентов: Прогнозирование оттока клиентов оператора связи.
+      </td>
+    <td>
+      Pandas, Numpy, Matplotlib, , Sklearn, , GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+    </td>
+  </tr>
 </table>
