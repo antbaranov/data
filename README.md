@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-<a href="https://github.com/antbaranov/ya-projects/blob/main/determination-of-age-by-photo/">Определение возраста покупателей по фотографии (Computer Vision)</a>
+<a href="https://github.com/antbaranov/ya-projects/blob/main/determination-of-age-by-photo/">Computer Vision: Определение возраста покупателей по фотографии</a>
     </td>
     <td>
 Построение модели, которая по фотографии определит приблизительный возраст человека.
