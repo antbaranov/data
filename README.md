@@ -38,7 +38,7 @@
      <td>Предсказание оттока абонентов для удержания в компании
        </td>
     <td>
-      Pandas, Numpy, Matplotlib, , Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
 </table>
