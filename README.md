@@ -41,4 +41,19 @@
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
+
+  
+    <tr>
+  <td>
+    <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/model_for_determining_the_market_value_of_a_car">
+  Численные методы: Модель определения рыночной стоимости автомобиля</a>
+      </td>
+     <td>Предсказание оттока абонентов для удержания в компании
+       </td>
+    <td>
+      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+    </td>
+  </tr>
+  
+
 </table>
