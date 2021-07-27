@@ -8,3 +8,13 @@
 - качество предсказания;
 - скорость предсказания;
 - время обучения.
+
+## Инструменты
+
+Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+
+## Выводы
+
+По задаче Заказчику важны: качество предсказания; скорость предсказания; время обучения.
+
+По всем трём показателям лучше всего подходит модель LGBMRegressor. Она быстро обучается и дает лучшее качество.
