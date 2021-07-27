@@ -54,6 +54,6 @@
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
-  
+ 
 
 </table>
