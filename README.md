@@ -48,7 +48,7 @@
     <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/model_for_determining_the_market_value_of_a_car">
   Численные методы: Модель определения рыночной стоимости автомобиля</a>
       </td>
-     <td>Предсказание оттока абонентов для удержания в компании
+     <td>Используя исторические данные по автомобилям разработать модель определения рыночной стоимости машин
        </td>
     <td>
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
