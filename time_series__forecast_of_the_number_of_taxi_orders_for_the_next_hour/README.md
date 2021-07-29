@@ -7,3 +7,7 @@
 ## Вывод
 
 - Обучили несколько моделей и выбрали с лучшей метрикой качества RMSE. Проверили лучшую модель на тестовой выборке и достигли качество RMSE до 48.
+
+## Испаользуемые инструменты
+
+Pandas, Seasonal decompose, Matplotlib, Seaborn, Sklearn, GridSearchCV, LinearRegression, RandomForestRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, Numpy
