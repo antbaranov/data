@@ -42,8 +42,7 @@
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
-  
-    <tr>
+  <tr>
   <td>
     <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/time_series__forecast_of_the_number_of_taxi_orders_for_the_next_hour">
   Временные ряды: Спрогнозировать количество заказов такси на следующий час</a>
@@ -55,8 +54,7 @@
 
     </td>
   </tr>
-  
-    <tr>
+  <tr>
   <td>
     <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/model_for_determining_the_market_value_of_a_car">
   Численные методы: Модель определения рыночной стоимости автомобиля</a>
