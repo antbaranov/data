@@ -50,9 +50,7 @@
      <td>Создать модель прогнозирования количества заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки
        </td>
     <td>
-      Pandas, Seasonal decompose, Matplotlib, Seaborn, Sklearn, GridSearchCV, LinearRegression, RandomForestRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, Numpy
-
-    </td>
+      Pandas, Seasonal decompose, Matplotlib, Seaborn, Sklearn, GridSearchCV, LinearRegression, RandomForestRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, Numpy</td>
   </tr>
   <tr>
   <td>
