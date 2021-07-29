@@ -1,4 +1,5 @@
 # Проекты сделанные в Яндекс.Практикум
+
 <table>
   <tr>
     <th>Название проекта
@@ -39,6 +40,19 @@
        </td>
     <td>
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+    </td>
+  </tr>
+  
+    <tr>
+  <td>
+    <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/time_series__forecast_of_the_number_of_taxi_orders_for_the_next_hour">
+  Временные ряды: Спрогнозировать количество заказов такси на следующий час</a>
+      </td>
+     <td>Создать модель прогнозирования количества заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки
+       </td>
+    <td>
+      Pandas, Seasonal decompose, Matplotlib, Seaborn, Sklearn, GridSearchCV, LinearRegression, RandomForestRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, Numpy
+
     </td>
   </tr>
 
