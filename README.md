@@ -63,4 +63,15 @@
       Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
+    <tr>
+  <td>
+    <a href="https://github.com/antbaranov/yandex.praktikum/tree/main/gold_enrichment/">
+  Машинное обучение для бизнеса: Технологический процесс обогащения золота</a>
+      </td>
+     <td>Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды. Модель для оптимизации производства.
+       </td>
+    <td>
+      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+    </td>
+  </tr>
  </table>
