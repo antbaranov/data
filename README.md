@@ -39,7 +39,7 @@
      <td>Предсказание оттока абонентов для удержания в компании
        </td>
     <td>
-      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Classification_report, Scipy, Seaborn, StandardScaler, DecisionTree, RandomForest, LogisticRegression, LGBM, CatBoost, Sklearn.metrics
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
      <td>Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды
        </td>
     <td>
-      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
+      Pandas, Numpy, Matplotlib, Sklearn, GridSearchCV, Seaborn, DecisionTree, RandomForest, LinearRegression, LGBM, CatBoost, XGBoost, Sklearn.metrics
     </td>
   </tr>
  </table>
